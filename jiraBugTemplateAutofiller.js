@@ -10,7 +10,7 @@ chrome.browserAction.onClicked.addListener(function(tab) {
 \\n\
 *Impact*\\n\
 *====================*\\n\
-Users who ___.\\\n\
+Users who ___.\\n\
 \\n\
 *Steps To Reproduce*\\n\
 *====================*\\n\
