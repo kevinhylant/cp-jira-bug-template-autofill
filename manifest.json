@@ -1,7 +1,6 @@
 {
   "name":"CP Autofill JIRA Bug Template",
   "description":"Autofill JIRA bug template.",
-  "icon": "bug-icon.png",
   "version":"1.0",
   "permissions": [
     "activeTab"
